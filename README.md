@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Excel,Powerbi,MYSQL,PYTHON**
 
+- 💬 Ask me about **PowerBi,SQL,Excel**
+
 - 📫 How to reach me **soniyadavjhs41@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
